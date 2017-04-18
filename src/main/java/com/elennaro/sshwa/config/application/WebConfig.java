@@ -21,3 +21,6 @@ public class WebConfig {
  return viewResolver;
  }
 }
+/*
+Что-то новенькое
+ */
